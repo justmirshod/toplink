@@ -1,0 +1,9 @@
+.navbar {
+  background-color: #e8e9f1 !important;
+}
+
+/* special for country select component */
+.PhoneInputInput:focus {
+  border: none;
+  outline: none;
+}
